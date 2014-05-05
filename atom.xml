@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Lz Blog]]></title>
+  <link href="http://lvze.github.io/atom.xml" rel="self"/>
+  <link href="http://lvze.github.io/"/>
+  <updated>2014-05-05T18:44:05+08:00</updated>
+  <id>http://lvze.github.io/</id>
+  <author>
+    <name><![CDATA[Lz]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://lvze.github.io/blog/2014/05/05/title/"/>
+    <updated>2014-05-05T17:59:25+08:00</updated>
+    <id>http://lvze.github.io/blog/2014/05/05/title</id>
+    <content type="html"><![CDATA[<ul>
+<li>first</li>
+<li>second</li>
+<li>third</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
